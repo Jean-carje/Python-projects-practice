@@ -30,9 +30,6 @@ class App(tk.Tk):
         self.resizable(False, False)
         self.configure(bg=BLACK)
 
-        self.trigVal = tk.DoubleVar()
-        self.isTrigVal = tk.BooleanVar()
-
         self.buttons()
         self.screenText()
 
