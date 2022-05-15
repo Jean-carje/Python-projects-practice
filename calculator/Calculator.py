@@ -2,8 +2,10 @@
 # Day 01
 # By Jean Estevez
 
+import os
 import tkinter as tk
 import math
+from PIL import ImageTk
 
 
 # constants
@@ -12,6 +14,9 @@ GRAY = "#b5b5b5"
 ORANGE = "#f39c12"
 RED = "#ff0008"
 
+base_folder = os.path.dirname(__file__)
+
+
 class App(tk.Tk):
 
     def __init__(self):
@@ -19,7 +24,7 @@ class App(tk.Tk):
         self.Font_tuple = ("Comic Sans MS", 10)
 
         self.title("Calculator")
-        # self.iconphoto(False, tk.PhotoImage(file=ruta))
+        self.iconphoto(False, ImageTk.PhotoImage(file=os.path.join(base_folder, 'icon.png')))
 
         self.geometry("234x400")
         self.resizable(False, False)
