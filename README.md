@@ -34,6 +34,7 @@ Recreation of Rock, paper, scissors game in Python with tkinter and random modul
 
 ------
 ## 3. :pencil: <a id="calculator"/>​Calculator
+- [file](./calculator) 
 
 <img src="./img/calculator.JPG" style="zoom: 80%;" />
 
