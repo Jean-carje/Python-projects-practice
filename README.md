@@ -2,14 +2,15 @@
 
 <h1 align="center">Python Projects Practice</h1>
 
-
+1. [Rock, paper, scissors Game](rpsg)
+2. [Currency Converter](cconverter)
 
 
 
 
 ------
 
-## 1. :video_game: Rock, paper, scissors Game
+## 1. :video_game: <a id="rpsg"/>Rock, paper, scissors Game
 
 
 
@@ -21,7 +22,7 @@ Recreation of Rock, paper, scissors game in Python with tkinter and random modul
 
 ------
 
-## 2. :currency_exchange: ​Currency Converter
+## 2. :currency_exchange: <a id="cconverter"/>​Currency Converter
 
 
 
