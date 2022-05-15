@@ -2,10 +2,9 @@
 
 <h1 align="center">Python Projects Practice</h1>
 
-1. [Rock, paper, scissors Game](rpsg)
-2. [Currency Converter](cconverter)
-
-
+1. [Rock, paper, scissors Game](#rpsg)
+2. [Currency Converter](#cconverter)
+3. [Calculator](#calculator)
 
 
 ------
@@ -34,4 +33,7 @@ Recreation of Rock, paper, scissors game in Python with tkinter and random modul
 
 
 ------
+## 3. :pencil: <a id="calculator"/>​Calculator
+
+<img src="./img/calculator.JPG" style="zoom: 80%;" />
 
