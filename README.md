@@ -5,6 +5,7 @@
 1. [Rock, paper, scissors Game](#rpsg)
 2. [Currency Converter](#cconverter)
 3. [Calculator](#calculator)
+4. [Hash Calculator](#hashCalculator)
 
 
 ------
@@ -37,4 +38,11 @@ Recreation of Rock, paper, scissors game in Python with tkinter and random modul
 - [file](./calculator) 
 
 <img src="./img/calculator.JPG" style="zoom: 80%;" />
+
+
+------
+## 4. :file_folder: <a id="hashCalculator"/>​ Hash Calculator
+- [file](./HashCalculator) 
+
+<img src="./img/hashtool.JPG" style="zoom: 80%;" />
 
